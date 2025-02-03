@@ -1,8 +1,10 @@
 {
-    "folder_path": "tosend",
-    "message_file": "message.txt",
-    "image_file": "img.png",
-    "send_day": 1,
-    "send_hour": 10,
-    "send_minute": 15
-  }
+  "folder_path": "tosend",
+  "message_file": "message.txt",
+  "image_file": "img.jpg",
+  "send_day": 0,
+  "send_hour": 2,
+  "send_minute": 30,
+  "chat_id": "-1001234567890",
+  "token": "123456:ABC-DEF1234ghIkl-zyx57W2v1u-wxyz"
+}
